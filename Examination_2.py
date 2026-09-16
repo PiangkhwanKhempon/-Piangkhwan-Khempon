@@ -6,4 +6,8 @@
 
 
 # นักเรียนเขียนโค้ดต่อจากบรรทัดนี้
-n = int(input())
+n =int(input("กรอกตัวเลข: "))
+if n == 2
+print("Even")
+else:
+print("odd")
