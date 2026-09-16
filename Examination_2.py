@@ -6,8 +6,8 @@
 
 
 # นักเรียนเขียนโค้ดต่อจากบรรทัดนี้
-n =int(input("กรอกตัวเลข: "))
-if n == 2
+n =int(input("จำนวนเต็ม: "))
+total ==2
 print("Even")
 else:
 print("odd")
